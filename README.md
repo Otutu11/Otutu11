@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🏢 Working at **Golden Viosam Nig. Ltd** on transformative data solutions for sustainability  
 - 📈 Building scalable ML pipelines and climate analytics platforms  
 - 🛰️ Skilled in **Python, SQL, Spark, GEE, TensorFlow, QGIS**, and **Cloud Technologies**  
-- 📫 Email me: **otutuanslem01@gmail.com** | 🔗 [LinkedIn]([https://www.linkedin.com/in/akajiaku/](https://www.linkedin.com/in/otutu-anslem-53a687359/)
+- 📫 Email me: **otutuanslem01@gmail.com** | 🔗 [LinkedIn]([https://www.linkedin.com/in/otutu-anslem/](https://www.linkedin.com/in/otutu-anslem)
 
 ---
 
@@ -74,7 +74,7 @@ Cloud & Tools:   Docker, GitHub Actions, GCP, Azure, Colab, VS Code
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Otutu11-black?logo=github&style=flat-square)](https://github.com/Otutu11)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/akajiaku/](https://www.linkedin.com/in/otutu-anslem-53a687359/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/otutu-anslem/](https://www.linkedin.com/in/otutu-anslem)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:otutuanslem01@gmail.com )
 
 ---
